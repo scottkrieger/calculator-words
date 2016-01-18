@@ -1,0 +1,6 @@
+[
+["pronoun","pastVerb","possessivePronoun","adjective","pluralNoun"],
+["interjection","adjective","pluralNoun","comma","possessivePronoun","adjectiveSatellite","adjective","pluralNoun"],
+["conjunction","presentVerb","adjective","noun","comma","adverb","pastVerb"],
+["adverb","adverb","adverb","adverb","verb","period"]
+]

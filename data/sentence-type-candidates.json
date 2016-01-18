@@ -1,0 +1,13 @@
+[
+["pronoun","verb","noun"],
+["possessivePronoun","noun","verb"],
+["possessivePronoun","noun","verb","conjunction","pluralNoun","presentVerb"],
+["pronoun","presentVerb","adjective","noun"],
+["pronoun","adverb","verb","adjective","noun"],	
+["pronoun","adverb","verb","noun"],
+["adjective","pronoun","adverb","verb","noun"],
+["noun","adverb","verb","pluralNoun"],
+["noun","adverb","verb"],
+["noun","presentVerb"],
+["verb","adjective","noun"]
+]

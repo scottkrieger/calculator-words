@@ -1,0 +1,16 @@
+{adjective} 
+{adjectiveSatellite} 
+
+{conjunction} 
+{interjection} 
+
+{possessivePronoun} 
+{pronoun} 
+{noun} 
+{pluralNoun} 
+
+{adverb} 
+{verb} 
+{presentVerb} 
+{pastVerb} 
+
