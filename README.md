@@ -34,3 +34,22 @@ For those words I could match i extracted the parts of speech. I thought I would
 The code is almost ritualitsticly verbose in that I wanted to "show my work" as I went through a thought process, without accounting for optimization, only for the gratifications of the results. I wanted to get to something that felt meaningful and also seemed derived of the awkwardness of the strange constraint. The final vocabulary is only about 400 words that feel both poetically viable and doable inverted on the TI-30 SLR+.
 
 
+00123456789
+ODIZEhSPLBG
+
+adjective 40
+adjectiveSatellite 39
+
+conjunction 1
+interjection 2
+
+possessivePronoun 1
+pronoun 3
+noun 379
+pluralNoun 32
+
+adverb 13
+verb 184
+presentVerb 34
+pastVerb 21
+
