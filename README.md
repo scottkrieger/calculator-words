@@ -38,18 +38,26 @@ The code is almost ritualitsticly verbose in that I wanted to "show my work" as 
 ODIZEhSPLBG
 
 adjective 40
+
 adjectiveSatellite 39
 
 conjunction 1
+
 interjection 2
 
 possessivePronoun 1
+
 pronoun 3
+
 noun 379
+
 pluralNoun 32
 
 adverb 13
+
 verb 184
+
 presentVerb 34
+
 pastVerb 21
 
