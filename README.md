@@ -28,5 +28,5 @@ I chose to process the data once more through the wordnet database:
 https://wordnet.princeton.edu/
 
 For those words I could match i extracted the parts of speech. I thought I would diagram the parts of speech of some of Ezra Pounds poetry that abided the strictly limited vocabulary afforded by the calculator's inverted interface. From among those words that did not fit the imediate interface of Wordnet, I hand picked those I still felt had poetic potential and reintroduced them into the vocabulary using a more nuanced vocabulary accounting for tense. With the discovery of a viable conjunction, I set to work.
-
-
+(screenshots/screenshot.jpg )
+(screenshots/screenshot 2.jpg )
