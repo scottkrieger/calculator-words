@@ -30,3 +30,7 @@ https://wordnet.princeton.edu/
 For those words I could match i extracted the parts of speech. I thought I would diagram the parts of speech of some of Ezra Pounds poetry that abided the strictly limited vocabulary afforded by the calculator's inverted interface. From among those words that did not fit the imediate interface of Wordnet, I hand picked those I still felt had poetic potential and reintroduced them into the vocabulary using a more nuanced vocabulary accounting for tense. With the discovery of a viable conjunction, I set to work.
 ![Image of workspace](screenshots/screenshot.png )
 ![Image of workspace](screenshots/screenshot 2.png )
+
+The code is almost ritualitsticly verbose in that I wanted to "show my work" as I went through a thought process, without accounting for optimization, only for the gratifications of the results. I wanted to get to something that felt meaningful and also seemed derived of the awkwardness of the strange constraint. The final vocabulary is only about 400 words that feel both poetically viable and doable inverted on the TI-30 SLR+.
+
+
