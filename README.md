@@ -7,15 +7,18 @@ This brought back a flood of memories, the many hours spent studying that face, 
 
 My first thought was not to google it. I've been studying a bit of Algebra on Khan Academy and I guess I want to apply math to a problem, so I though I might sort out a way to generate a list of all the words that can be typed upside down on a calculator. And then I thought I might take a series of photographs of my newly rediscovered calculator in various poses displaying the words of a poem in sequence upside down. Here's what I did:
 
-* Generate a list of all possible 2-6 character sequences of the characters: 
+Generate a list of all possible 2-6 character sequences of the characters: 
 
 ODIZEhSPLBG
+
 00123456789
 
 The upside down version of the numerals. Then I found a list of common 2-6 letter scrabble words:
 
 http://www.poslarchive.com/math/scrabble/lists/common-234.html
+
 http://www.poslarchive.com/math/scrabble/lists/common-5.html
+
 http://www.poslarchive.com/math/scrabble/lists/common-6.html
 
 I took the intersection of the sets using http://underscorejs.org which took a long time, some good statistics started to emerge. This strict vocabulary of letters provided a surprisingly baudy set of choices, as if the inventors of the calculator forsaw the depths of 4th grade humor. I wanted to make aesthetic choices at every step through this process so when I got to a viable set of word choices, what I would call common words of 2-6 characters that can be displayed inverted upon a calculator. 
